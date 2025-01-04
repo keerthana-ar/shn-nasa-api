@@ -12,7 +12,7 @@ The **Natural Disaster Monitor** is a React-based web application that uses NASA
 ---
 
 ## Team members
-[Keerthan A R](https://github.com/TH-Activities/saturday-hack-night-template)
+[Keerthana A R](https://github.com/TH-Activities/saturday-hack-night-template)
 
 ## Link to product walkthrough
 [link to video](Link Here)
